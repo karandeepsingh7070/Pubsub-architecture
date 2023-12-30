@@ -1,0 +1,18 @@
+{
+  "name": "viewlift-pubsub",
+  "version": "1.0.0",
+  "description": "contains the function to manage pubsub architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snagfilms/web-viewlift-pubsub.git"
+  },
+  "keywords": [
+    "pubsub"
+  ],
+  "author": "Viewlift",
+  "license": "ISC"
+}
