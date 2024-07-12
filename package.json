@@ -1,5 +1,5 @@
 {
-  "name": "viewlift-pubsub",
+  "name": "pubsub-simplify",
   "version": "1.0.0",
   "description": "contains the function to manage pubsub architecture",
   "main": "index.js",
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snagfilms/web-viewlift-pubsub.git"
+    "url": "git+https://github.com/karandeepsingh7070/Pubsub-architecture"
   },
   "keywords": [
     "pubsub"
   ],
-  "author": "Viewlift",
+  "author": "Karandeep Singh",
   "license": "ISC"
 }

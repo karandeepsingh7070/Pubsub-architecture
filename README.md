@@ -15,10 +15,10 @@ https://medium.com/@karandeepsinghworkspace/efficient-data-sharing-in-react-a-de
 You can install Pub/Sub via npm:
 
 ```bash
-npm i viewlift-pubsub
+npm i pubsub-simplify
 
 ```javascript
-import PubSub from '@your-package/pubsub';
+import PubSub from 'pubsub-simplify';
 
 const callback = (data) => {
   console.log('Received:', data);
